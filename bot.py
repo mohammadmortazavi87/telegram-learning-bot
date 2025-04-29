@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 import os
 
-TOKEN = os.environ.get('BOT_TOKEN')
+TOKEN = os.environ.get('7288787349:AAG9CF10XVZHJ0V7aKUnOnIwy7mrnmIp1DM')
 
 memory = []
 
